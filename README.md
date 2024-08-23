@@ -50,7 +50,7 @@ The `VirtualLabManager` contract is designed to facilitate a decentralized platf
 
 ## Contract Address
 *Note: Contract address will be provided upon deployment of the contract on the Ethereum network.*
-**Network:** Educhain
+**Network:** Edu-chain Testnet
 **Contract Address:** 0x8576fa63b6e58b2e0d37cb9ff6e61dc2a5cd3e23
 ![image](https://github.com/user-attachments/assets/7cdba8b9-f660-4605-ba76-1625b287742f)
 
